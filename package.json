@@ -1,0 +1,27 @@
+{
+  "name": "amorph-base2048",
+  "version": "0.0.0",
+  "description": "Amorph converters for base-2048",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js --bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/safezero/amorph-base2048.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safezero/amorph-base2048/issues"
+  },
+  "homepage": "https://github.com/safezero/amorph-base2048#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "base-2048": "0.0.1",
+    "nobject": "0.0.3"
+  }
+}
