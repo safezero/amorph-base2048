@@ -62,9 +62,5 @@ nobject.set(['base2048.spanish', 'buffer'], (words) => {
 module.exports = {
   pluginVersion: 1,
   converters: nobject,
-  equivalenceTests: {
-    bn: (a, b) => {
-      return a.eq(b)
-    }
-  }
+  equivalenceTests: {}
 }
