@@ -1,6 +1,6 @@
 {
   "name": "amorph-base2048",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Amorph converters for base-2048",
   "main": "index.js",
   "scripts": {
